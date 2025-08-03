@@ -26,7 +26,7 @@
 ## 🌍 currently working on
 
 - breaking barriers in roblox ai  
-- commissions to help others <i>grow</i>.
+- bringing innovations to roblox community management
 - changing the status quo !!
 
 ---

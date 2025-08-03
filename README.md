@@ -1,4 +1,4 @@
-<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/2c35c715-ecbf-403f-b2f7-32c3100bd1c8" /><h1 align="center">hi, i’m exodus </h1>
+<h1 align="center">hi, i’m exodus </h1>
 
 <p align="center">
    🌀 <i>If I speak in the tongues of men and of angels, but have not love, I am only a resounding gong or a clanging cymbal.</i>

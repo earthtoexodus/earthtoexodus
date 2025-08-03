@@ -11,7 +11,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="36" />
-   <img src="https://spng.pngfind.com/pngs/s/683-6834213_transparent-html-logo-png-png-download.png" width="36" />
+   <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" />
 </p>

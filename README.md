@@ -1,9 +1,5 @@
 <h1 align="center">hi, i’m exodus </h1>
 
-<p align="center">
-   🌀 <i>If I speak in the tongues of men and of angels, but have not love, I am only a resounding gong or a clanging cymbal.</i>
-</p>
-
 ---
 
 ## ☁️ tools i use
